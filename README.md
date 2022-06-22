@@ -1,3 +1,3 @@
 # ticker-package
 
-# test and publish npm package
+test and publish npm package
