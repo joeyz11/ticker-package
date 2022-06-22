@@ -1,8 +1,8 @@
 {
-  "name": "ticker-package",
+  "name": "joey-ticker-package",
   "version": "1.0.0",
   "description": "test and publish npm package",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "rollup -c",
     "start": "rollup -c -w",
